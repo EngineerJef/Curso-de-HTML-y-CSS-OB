@@ -1,0 +1,8 @@
+/*Le damos color rojo a todos los elementos que tenga id elemento 1*/
+#elemento-1{
+    color:  red;
+}
+/*accedemos al primer elemento de la lista desordenada y le cambiamos el tamaño*/
+ul li#elemento-1{
+    font-size: 2rem;
+}
